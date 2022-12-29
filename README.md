@@ -16,5 +16,6 @@ Fin in the variable name and array items and Hit Convert
 
 You can then use these variables in the console
 
-![image](https://user-images.githubusercontent.com/21293180/210010612-904850bf-ab6e-407a-aca1-46a29b8dbda7.png)
+![image](https://user-images.githubusercontent.com/21293180/210010742-5560be36-d1f5-4a33-8e5d-8069f0ae7d54.png)
+
 
