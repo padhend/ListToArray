@@ -11,7 +11,7 @@ The variables are then global variables which can be used in the powershell cons
 ![image](https://user-images.githubusercontent.com/21293180/210010283-23a0d31d-9baa-49bc-97af-dce56f5e7ea1.png)
 
 Fill in the variable name and array items and hit Convert.
-The array items can be pasted int from any other document, excel file, notepad etc etc
+The array items can be pasted from any other document, excel file, notepad etc etc
 
 ![image](https://user-images.githubusercontent.com/21293180/210010510-c111bf14-a4d3-4258-a055-9ab364db2406.png)
 
