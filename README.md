@@ -1,6 +1,6 @@
 # ListToArray
 
-This will convert a list to an arreay with a variable of your choice ina GUI.
+This will convert a list to an array with a variable of your choice in a Powershell GUI.
 It is a quick and dirty solution to a problem
 
 1. Enter th name of the variable in the top text box
